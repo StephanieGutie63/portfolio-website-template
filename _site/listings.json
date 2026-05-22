@@ -1,15 +1,5 @@
 [
   {
-    "listing": "/portfolio-website-template/marketing-analytics.html",
-    "items": [
-      "/portfolio-website-template/listings/05-social-media-engagement.html",
-      "/portfolio-website-template/listings/04-funnel-attribution-model.html",
-      "/portfolio-website-template/listings/03-customer-segmentation-clustering.html",
-      "/portfolio-website-template/listings/02-seo-benchmarking-analysis.html",
-      "/portfolio-website-template/listings/01-campaign-insights-dashboard.html"
-    ]
-  },
-  {
     "listing": "/marketing-analytics.html",
     "items": [
       "/listings/05-social-media-engagement.html",
@@ -17,6 +7,16 @@
       "/listings/04-funnel-attribution-model.html",
       "/portfolio-website-template/listings/04-funnel-attribution-model.html",
       "/listings/03-customer-segmentation-clustering.html",
+      "/portfolio-website-template/listings/03-customer-segmentation-clustering.html",
+      "/portfolio-website-template/listings/02-seo-benchmarking-analysis.html",
+      "/portfolio-website-template/listings/01-campaign-insights-dashboard.html"
+    ]
+  },
+  {
+    "listing": "/portfolio-website-template/marketing-analytics.html",
+    "items": [
+      "/portfolio-website-template/listings/05-social-media-engagement.html",
+      "/portfolio-website-template/listings/04-funnel-attribution-model.html",
       "/portfolio-website-template/listings/03-customer-segmentation-clustering.html",
       "/portfolio-website-template/listings/02-seo-benchmarking-analysis.html",
       "/portfolio-website-template/listings/01-campaign-insights-dashboard.html"

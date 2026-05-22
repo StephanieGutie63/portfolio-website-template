@@ -161,81 +161,158 @@
     "text": "Interpretation\nThis attribution analysis in theory will helps Sino Yoga understand which channels support the full customer journey. YouTube may not always be the final conversion channel, but it likely plays a major role in awareness, education, and trust-building. The website may close the conversion, while Google Search or Direct traffic may reflect users returning after earlier exposure. Therefore, Sino Yoga should not judge performance only by last-touch conversions. Instead, it should use multi-touch attribution to understand how YouTube, search, website, and social platforms work together to move users toward membership."
   },
   {
-    "objectID": "resume/Resume.html",
-    "href": "resume/Resume.html",
+    "objectID": "portfolio-website-template/strategic-marketing.html",
+    "href": "portfolio-website-template/strategic-marketing.html",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "portfolio-website-template/strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "href": "portfolio-website-template/strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 1: Strategic Campaign Planning]",
+    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
+  },
+  {
+    "objectID": "portfolio-website-template/strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "href": "portfolio-website-template/strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 2: Brand Audit & Positioning]",
+    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
+  },
+  {
+    "objectID": "portfolio-website-template/strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "href": "portfolio-website-template/strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
+    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "portfolio-website-template/strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "href": "portfolio-website-template/strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
+    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+  },
+  {
+    "objectID": "portfolio-website-template/resume/Resume.html",
+    "href": "portfolio-website-template/resume/Resume.html",
     "title": "Professional Summary",
     "section": "",
     "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
   },
   {
-    "objectID": "portfolio-website-template/resume.html",
-    "href": "portfolio-website-template/resume.html",
-    "title": "Résumé",
+    "objectID": "portfolio-website-template/listings/05-social-media-engagement.html",
+    "href": "portfolio-website-template/listings/05-social-media-engagement.html",
+    "title": "Social Media Engagement Analysis",
     "section": "",
-    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Your Degree]\n[Start – Graduation Year]\n[Your College or Department]\n[Your University]\n\n\n[Previous Degree or Certification]\n[Start – End Year]\n[Your College or Department]\n[Your University]\n\n\n\n\n\nWork Experience\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Responsibility or accomplishment #3]\n\n[Technical tools, collaboration, or outcomes]\n\n[Any metrics, impacts, or stakeholder involvement]\n\n\n\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Team leadership, training, or development]\n\n[Projects involving marketing, data, or web technologies]\n\n[Toolset used or strategies implemented]"
+    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
   },
   {
-    "objectID": "portfolio-website-template/marketing-analytics.html",
-    "href": "portfolio-website-template/marketing-analytics.html",
+    "objectID": "portfolio-website-template/listings/03-customer-segmentation-clustering.html",
+    "href": "portfolio-website-template/listings/03-customer-segmentation-clustering.html",
+    "title": "Customer Segmentation Using Clustering",
+    "section": "",
+    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
+  },
+  {
+    "objectID": "portfolio-website-template/listings/01-campaign-insights-dashboard.html",
+    "href": "portfolio-website-template/listings/01-campaign-insights-dashboard.html",
+    "title": "Campaign Insights Dashboard",
+    "section": "",
+    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
+  },
+  {
+    "objectID": "portfolio-website-template/contact-us/thank-you.html",
+    "href": "portfolio-website-template/contact-us/thank-you.html",
+    "title": "Thank you",
+    "section": "",
+    "text": "Form submitted."
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
     "title": "Marketing Analytics",
     "section": "",
-    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.\nWhether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies."
+    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results."
   },
   {
-    "objectID": "portfolio-website-template/marketing-analytics.html#what-youll-find",
-    "href": "portfolio-website-template/marketing-analytics.html#what-youll-find",
+    "objectID": "marketing-analytics.html#overview",
+    "href": "marketing-analytics.html#overview",
     "title": "Marketing Analytics",
-    "section": "What You’ll Find",
-    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
+    "section": "Overview",
+    "text": "Overview\nThis project focused on analyzing factors that influence academic student performance using machine learning techniques. Using a Kaggle Student Performance dataset containing 10,000 student records, the goal was to predict student performance based on study habits, previous scores, extracurricular participation, sleep patterns, and practice exam completion. The project emphasized data cleaning, predictive modeling, and evaluating the effectiveness of machine learning algorithms in educational analytics.\n\nTools Used\n\nR Programming Language\n\n\n\nMethodology\n\nData cleaning and feature engineering\nExploratory data validation\nModel training using Random Forest regression\nPerformance evaluation using RMSE, R², and MAE metrics\n\n\n\nVisualizations\nThe project included dataset summaries, variable structure analysis, and model evaluation metrics to interpret predictive performance. Statistical summaries and performance metrics were used to visualize the relationships between student behaviors and academic outcomes. The workflow also emphasized reproducibility and clean data practices through structured preprocessing and workflow pipelines in R."
   },
   {
-    "objectID": "portfolio-website-template/listings/04-funnel-attribution-model.html",
-    "href": "portfolio-website-template/listings/04-funnel-attribution-model.html",
-    "title": "Marketing Funnel Attribution Model",
+    "objectID": "marketing-analytics.html#overview-1",
+    "href": "marketing-analytics.html#overview-1",
+    "title": "Marketing Analytics",
+    "section": "Overview",
+    "text": "Overview\nThis project focused on designing and executing a customer satisfaction and brand loyalty survey for a fictional regional coffee chain, Bean There Done That, to analyze declining repeat purchase behavior. The research aimed to identify how customer satisfaction, product quality, and price perceptions influence customer retention and revisit intentions. The project combined survey research methodology with statistical analysis to generate actionable managerial insights for improving customer loyalty and repeat visits.\n\nLearning Outcomes\n\nDeveloped experience designing research-based surveys using marketing constructs and academic literature\n\n\n\nStrengthened understanding of customer satisfaction, brand loyalty, and consumer behavior analysis\n\n\n\nLearned how to apply quantitative research methods to real-world business problems\n\n\n\nGained experience conducting regression analysis and Chi-Square testing using SPSS\n\n\n\nImproved ability to interpret statistical findings and translate them into business recommendations\n\n\n\nEnhanced understanding of how data-driven insights support customer retention strategies and decision-making\n\n\n\nMethodology\n\nThe project used a structured survey research methodology supported by academic journal references and conceptual frameworks related to customer satisfaction,product quality, price consciousness, and brand loyalty.\nSurvey responses from 200 generated participants were analyzed using SPSS through descriptive statistics, multiple regression analysis, ANOVA testing, cross-tabulation, and Chi-Square testing."
+  },
+  {
+    "objectID": "marketing-analytics.html#overview-2",
+    "href": "marketing-analytics.html#overview-2",
+    "title": "Marketing Analytics",
+    "section": "Overview",
+    "text": "Overview\nThis project focused on analyzing Sino Yoga’s digital performance through an interactive analytics dashboard created in Google Data Studio (Looker Studio). The dashboard integrated website and YouTube performance metrics to evaluate audience engagement, search visibility, traffic behavior, and cross-platform growth opportunities. The primary objective was to assess how YouTube content contributed to website traffic, brand awareness, and customer engagement across digital channels\nThe project emphasized the importance of multi-channel integration and data-driven marketing strategies to support Sino Yoga’s long-term brand growth and monetization goals. Metrics such as website sessions, engagement trends, bounce rates, referral traffic, and audience interactions were analyzed to identify actionable insights for improving digital performance."
+  },
+  {
+    "objectID": "marketing-analytics.html#overview-3",
+    "href": "marketing-analytics.html#overview-3",
+    "title": "Marketing Analytics",
+    "section": "Overview",
+    "text": "Overview\nSino Yoga is a yoga and wellness brand that primarily broadcasts content through YouTube. Founded by Yang Qi, who has over 18 years of yoga expertise, the brand aims to expand its awareness and increase monetization opportunities through consistent digital growth and regular video uploads."
+  },
+  {
+    "objectID": "marketing-analytics.html#data",
+    "href": "marketing-analytics.html#data",
+    "title": "Marketing Analytics",
+    "section": "Data",
+    "text": "Data\nUsing YouTube Studio Data as csv files while cleaning the data and creating a Tableau interactive link to show SEO Performance and overall channel visibility.\nData CSV Links:\n\nTableau SEO Dashboard\nAs seen on this dashboard the audience is primarily 45 years and over females mainly from Taiwan dn the US. This strongly aligns with out clients goal of expanding to those target markets. That viewers are primarily using mobile devices to view the videos. This emphasizes the need to focus on mobile optimized content for all the videos. \nRegarding traffic to the YouTube channel, Sino Yoga relies largely on external traffic sources such as WeChat and Naver while YouTube & Google Search contribute to low traffic, indicating weak organic search visibility.\nInside of the YouTube platform traffic from vidoes shows CTR being 9-10% from Youtube search however the amount of times the video is shown or impressions are low compared to browse features traffic source. This suggest that while content performs well when discovered it lacks sufficient visibility in search results. \nTableau Interactive Link\n\n\n\nTime Series Plot\nThe time series plot shows the daily data of videos published regarding their impressions and over the channel’s lifetime. Initially starting with high ctr and high impressions but stabilizing between 4-7% indicate incosistent visibility. While the ability to create effective thumbnails and title, there is a lack of consistency and uniformity in optimization. Impressions decreasing also show that there is a low visibility throughout the entire video uploads. \nTableu Link to Interactive\n\n\n\nKeyword Research\nThe keyword analysis shows that while high-volume terms like yoga, health, and meditation drive the most search demand, they are highly competitive and difficult to rank for. In contrast, lower-competition keywords such as stretching, meridian, qi, and flexibility still offer meaningful search volume with a higher chance of ranking. This highlights a clear opportunity for Sino Yoga to shift toward niche, lower-difficulty keywords, enabling faster visibility in search and building stronger SEO performance over time. \nTableu Interactive Link"
+  },
+  {
+    "objectID": "listings/04-funnel-attribution-model.html",
+    "href": "listings/04-funnel-attribution-model.html",
+    "title": "Sino Yoga Data Studio Project",
     "section": "",
-    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
+    "text": "Sino Yoga Data Studio Project\n\nOverview\nThis project focused on analyzing Sino Yoga’s digital performance through an interactive analytics dashboard created in Google Data Studio (Looker Studio). The dashboard integrated website and YouTube performance metrics to evaluate audience engagement, search visibility, traffic behavior, and cross-platform growth opportunities. The primary objective was to assess how YouTube content contributed to website traffic, brand awareness, and customer engagement across digital channels\nThe project emphasized the importance of multi-channel integration and data-driven marketing strategies to support Sino Yoga’s long-term brand growth and monetization goals. Metrics such as website sessions, engagement trends, bounce rates, referral traffic, and audience interactions were analyzed to identify actionable insights for improving digital performance.\n\n\n\n\nLearning Outcomes\n\nDeveloped experience creating and interpreting interactive marketing dashboards using Google Data Studio (Looker Studio)\nStrengthened understanding of website analytics, YouTube performance tracking, and SEO visibility analysis\nLearned how to connect and visualize multi-channel marketing data to support strategic decision-making\nImproved ability to analyze customer engagement and traffic behavior across digital platforms\nApplied marketing analytics concepts to evaluate awareness-stage customer journey performance\nGained insight into how digital dashboards support reporting, optimization, and performance monitoring in marketing environments\n\n\n\n\nKey Skills Gained\n\nData Visualization: Created dashboards and visual reports to communicate marketing insights clearly and effectively using Google Data Studio.\nMarketing Analytics: Analyzed website traffic, YouTube engagement, and referral data to evaluate campaign and channel performance.\nSEO & Channel Visibility Analysis: Assessed search performance and discoverability opportunities for Sino Yoga’s website and YouTube content.\nPerformance Tracking: Monitored KPIs including website sessions, engagement rates, referral traffic, and audience behavior.\nCross-Platform Integration: Evaluated how YouTube traffic contributed to website engagement and brand growth across channels.\nStrategic Reporting: Synthesized analytical findings into actionable recommendations for improving digital growth and audience engagement.\nDigital Marketing Strategy: Applied data-driven insights to support brand awareness and monetization strategies for a wellness brand."
   },
   {
-    "objectID": "portfolio-website-template/listings/02-seo-benchmarking-analysis.html",
-    "href": "portfolio-website-template/listings/02-seo-benchmarking-analysis.html",
-    "title": "SEO Benchmarking Analysis",
-    "section": "",
-    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
-  },
-  {
-    "objectID": "portfolio-website-template/index.html#about-me",
-    "href": "portfolio-website-template/index.html#about-me",
-    "title": "Hi, I’m [Your Name Here]",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Stephanie Gutierrez",
     "section": "About Me",
-    "text": "About Me\nI hold a [Your Degree or Current Program] from [Your Institution]."
+    "text": "About Me\nI am currently pursuing a Master’s degree in Digital Marketing at Cal Poly Pomona, with a background in graphic communication and computer science. Through my academic and professional experience, I have developed skills in social media management, data analysis, SEO, and survey research. I am passionate about combining creativity with data and design to develop impact, data-driven marketing strategies."
   },
   {
-    "objectID": "portfolio-website-template/index.html#lets-connect",
-    "href": "portfolio-website-template/index.html#lets-connect",
-    "title": "Hi, I’m [Your Name Here]",
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m Stephanie Gutierrez",
     "section": "Let’s Connect",
-    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+    "text": "Let’s Connect\nEmail: stephgraphx@gmail.com\nLinkedIn: Stephanie Gutierrez"
   },
   {
-    "objectID": "portfolio-website-template/contact-us/contact-us.html",
-    "href": "portfolio-website-template/contact-us/contact-us.html",
+    "objectID": "index.html#creative-portfolio",
+    "href": "index.html#creative-portfolio",
+    "title": "Hi, I’m Stephanie Gutierrez",
+    "section": "Creative Portfolio",
+    "text": "Creative Portfolio\n\n  \n  \n\nStephanie Gutierrez Portfolio"
+  },
+  {
+    "objectID": "contact-us/thank-you.html",
+    "href": "contact-us/thank-you.html",
+    "title": "Thank you",
+    "section": "",
+    "text": "Form submitted."
+  },
+  {
+    "objectID": "contact-us/contact-us.html",
+    "href": "contact-us/contact-us.html",
     "title": "Contact Us",
     "section": "",
     "text": "Template"
-  },
-  {
-    "objectID": "listings/05-social-media-engagement.html",
-    "href": "listings/05-social-media-engagement.html",
-    "title": "Student Performance Prediction Using Random Forest Modeling",
-    "section": "",
-    "text": "Overview\nThis project focused on analyzing factors that influence academic student performance using machine learning techniques. Using a Kaggle Student Performance dataset containing 10,000 student records, the goal was to predict student performance based on study habits, previous scores, extracurricular participation, sleep patterns, and practice exam completion. The project emphasized data cleaning, predictive modeling, and evaluating the effectiveness of machine learning algorithms in educational analytics.\n\n\n\n\nOutcomes\n\nThe Random Forest model demonstrated exceptionally strong predictive accuracy:\nR²: 0.986 (explained 98.6% of performance variation)\nRMSE: 2.40\nMAE: 1.89\n\n\n\n\nKey Skills Gained\nThe dataset was cleaned and transformed by standardizing variable names, converting categorical variables into numeric dummy variables, and selecting relevant predictor variables. Data preprocessing included normalization and removal of missing values using recipe workflows in R.\nThe project used a Random Forest regression model to predict the dependent variable, PerformanceIndex. The dataset was split into training (80%) and testing (20%) sets to evaluate model performance. The workflow included:\n\nData cleaning and feature engineering\nExploratory data validation\nModel training using Random Forest regression\nPerformance evaluation using RMSE, R², and MAE metrics\n\n\n\n\nThe results showed that factors such as study hours, previous academic performance, sleep habits, extracurricular involvement, and practice papers were highly predictive of student success. The model effectively minimized prediction error and demonstrated the potential for machine learning applications in educational performance analysis and early intervention strategies."
-  },
-  {
-    "objectID": "listings/03-customer-segmentation-clustering.html",
-    "href": "listings/03-customer-segmentation-clustering.html",
-    "title": "Customer Retention Analysis Project",
-    "section": "",
-    "text": "Overview\nThis project focused on designing and executing a customer satisfaction and brand loyalty survey for a fictional regional coffee chain, Bean There Done That, to analyze declining repeat purchase behavior. The research aimed to identify how customer satisfaction, product quality, and price perceptions influence customer retention and revisit intentions. The project combined survey research methodology with statistical analysis to generate actionable managerial insights for improving customer loyalty and repeat visits.\n\n\n\n\nLearning Outcomes\n\nDeveloped experience designing research-based surveys using marketing constructs and academic literature\nStrengthened understanding of customer satisfaction, brand loyalty, and consumer behavior analysis\nLearned how to apply quantitative research methods to real-world business problems\nGained experience conducting regression analysis and Chi-Square testing using SPSS\nImproved ability to interpret statistical findings and translate them into business recommendations\nEnhanced understanding of how data-driven insights support customer retention strategies and decision-making\n\n\n\n\nKey Skills Gained\n\nStatistical Analysis: Conducted multiple regression analysis and Chi-Square testing to evaluate customer behavior relationships.\nConsumer Behavior Analysis: Examined how satisfaction, presentation quality, and emotional experiences influence revisit intentions.\nData Preparation: Transformed and prepared survey data for SPSS analysis, including converting categorical variables into numerical scales.\nManagerial Insight Development: Created actionable recommendations focused on customer satisfaction, loyalty programs, and service improvements.\nResearch Communication: Synthesized analytical findings into professional business research reports and presentations.\nMarketing Analytics: Applied quantitative methods to evaluate customer retention and loyalty drivers.\nStrategic Problem Solving: Used research findings to recommend strategies for improving customer experience and repeat purchase behavior.\n\n\n\n\n\nMethodology & Visualization\nThe project used a structured survey research methodology supported by academic journal references and conceptual frameworks related to customer satisfaction, product quality, price consciousness, and brand loyalty. Survey responses from 200 generated participants were analyzed using SPSS through descriptive statistics, multiple regression analysis, ANOVA testing, cross-tabulation, and Chi-Square testing.\nVisual elements included conceptual framework diagrams, descriptive statistics tables, coefficient tables, ANOVA outputs, and crosstab visualizations to communicate statistical relationships and analytical findings effectively"
   },
   {
     "objectID": "IBM 6540 Final Project.html#cleaning-student-performance-data",
@@ -287,158 +364,74 @@
     "text": "Conclusion\nOur analysis of the Student Performance dataset reveals that academic performance can be predicted with high accuracy using factors such as hours studied, previous test scores, participation in extracurricular activities, average sleep hours, and the number of practice papers completed. The Random Forest model’s outstanding results explaining nearly all variation in performance and maintaining prediction errors within roughly 2 points highlight the strong relationship between these predictors and overall student success. These findings suggest that a balanced approach combining consistent study habits, adequate rest, and targeted practice can significantly enhance academic outcomes. This model could be a valuable tool for educators and policymakers to identify at-risk students and implement strategies to improve performance."
   },
   {
-    "objectID": "contact-us/contact-us.html",
-    "href": "contact-us/contact-us.html",
+    "objectID": "listings/03-customer-segmentation-clustering.html",
+    "href": "listings/03-customer-segmentation-clustering.html",
+    "title": "Customer Retention Analysis Project",
+    "section": "",
+    "text": "Overview\nThis project focused on designing and executing a customer satisfaction and brand loyalty survey for a fictional regional coffee chain, Bean There Done That, to analyze declining repeat purchase behavior. The research aimed to identify how customer satisfaction, product quality, and price perceptions influence customer retention and revisit intentions. The project combined survey research methodology with statistical analysis to generate actionable managerial insights for improving customer loyalty and repeat visits.\n\n\n\n\nLearning Outcomes\n\nDeveloped experience designing research-based surveys using marketing constructs and academic literature\nStrengthened understanding of customer satisfaction, brand loyalty, and consumer behavior analysis\nLearned how to apply quantitative research methods to real-world business problems\nGained experience conducting regression analysis and Chi-Square testing using SPSS\nImproved ability to interpret statistical findings and translate them into business recommendations\nEnhanced understanding of how data-driven insights support customer retention strategies and decision-making\n\n\n\n\nKey Skills Gained\n\nStatistical Analysis: Conducted multiple regression analysis and Chi-Square testing to evaluate customer behavior relationships.\nConsumer Behavior Analysis: Examined how satisfaction, presentation quality, and emotional experiences influence revisit intentions.\nData Preparation: Transformed and prepared survey data for SPSS analysis, including converting categorical variables into numerical scales.\nManagerial Insight Development: Created actionable recommendations focused on customer satisfaction, loyalty programs, and service improvements.\nResearch Communication: Synthesized analytical findings into professional business research reports and presentations.\nMarketing Analytics: Applied quantitative methods to evaluate customer retention and loyalty drivers.\nStrategic Problem Solving: Used research findings to recommend strategies for improving customer experience and repeat purchase behavior.\n\n\n\n\n\nMethodology & Visualization\nThe project used a structured survey research methodology supported by academic journal references and conceptual frameworks related to customer satisfaction, product quality, price consciousness, and brand loyalty. Survey responses from 200 generated participants were analyzed using SPSS through descriptive statistics, multiple regression analysis, ANOVA testing, cross-tabulation, and Chi-Square testing.\nVisual elements included conceptual framework diagrams, descriptive statistics tables, coefficient tables, ANOVA outputs, and crosstab visualizations to communicate statistical relationships and analytical findings effectively"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Student Performance Prediction Using Random Forest Modeling",
+    "section": "",
+    "text": "Overview\nThis project focused on analyzing factors that influence academic student performance using machine learning techniques. Using a Kaggle Student Performance dataset containing 10,000 student records, the goal was to predict student performance based on study habits, previous scores, extracurricular participation, sleep patterns, and practice exam completion. The project emphasized data cleaning, predictive modeling, and evaluating the effectiveness of machine learning algorithms in educational analytics.\n\n\n\n\nOutcomes\n\nThe Random Forest model demonstrated exceptionally strong predictive accuracy:\nR²: 0.986 (explained 98.6% of performance variation)\nRMSE: 2.40\nMAE: 1.89\n\n\n\n\nKey Skills Gained\nThe dataset was cleaned and transformed by standardizing variable names, converting categorical variables into numeric dummy variables, and selecting relevant predictor variables. Data preprocessing included normalization and removal of missing values using recipe workflows in R.\nThe project used a Random Forest regression model to predict the dependent variable, PerformanceIndex. The dataset was split into training (80%) and testing (20%) sets to evaluate model performance. The workflow included:\n\nData cleaning and feature engineering\nExploratory data validation\nModel training using Random Forest regression\nPerformance evaluation using RMSE, R², and MAE metrics\n\n\n\n\nThe results showed that factors such as study hours, previous academic performance, sleep habits, extracurricular involvement, and practice papers were highly predictive of student success. The model effectively minimized prediction error and demonstrated the potential for machine learning applications in educational performance analysis and early intervention strategies."
+  },
+  {
+    "objectID": "portfolio-website-template/contact-us/contact-us.html",
+    "href": "portfolio-website-template/contact-us/contact-us.html",
     "title": "Contact Us",
     "section": "",
     "text": "Template"
   },
   {
-    "objectID": "contact-us/thank-you.html",
-    "href": "contact-us/thank-you.html",
-    "title": "Thank you",
-    "section": "",
-    "text": "Form submitted."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Hi, I’m Stephanie Gutierrez",
+    "objectID": "portfolio-website-template/index.html#about-me",
+    "href": "portfolio-website-template/index.html#about-me",
+    "title": "Hi, I’m [Your Name Here]",
     "section": "About Me",
-    "text": "About Me\nI am currently pursuing a Master’s degree in Digital Marketing at Cal Poly Pomona, with a background in graphic communication and computer science. Through my academic and professional experience, I have developed skills in social media management, data analysis, SEO, and survey research. I am passionate about combining creativity with data and design to develop impact, data-driven marketing strategies."
+    "text": "About Me\nI hold a [Your Degree or Current Program] from [Your Institution]."
   },
   {
-    "objectID": "index.html#lets-connect",
-    "href": "index.html#lets-connect",
-    "title": "Hi, I’m Stephanie Gutierrez",
+    "objectID": "portfolio-website-template/index.html#lets-connect",
+    "href": "portfolio-website-template/index.html#lets-connect",
+    "title": "Hi, I’m [Your Name Here]",
     "section": "Let’s Connect",
-    "text": "Let’s Connect\nEmail: stephgraphx@gmail.com\nLinkedIn: Stephanie Gutierrez"
+    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
   },
   {
-    "objectID": "index.html#creative-portfolio",
-    "href": "index.html#creative-portfolio",
-    "title": "Hi, I’m Stephanie Gutierrez",
-    "section": "Creative Portfolio",
-    "text": "Creative Portfolio\n\n  \n  \n\nStephanie Gutierrez Portfolio"
-  },
-  {
-    "objectID": "listings/04-funnel-attribution-model.html",
-    "href": "listings/04-funnel-attribution-model.html",
-    "title": "Sino Yoga Data Studio Project",
+    "objectID": "portfolio-website-template/listings/02-seo-benchmarking-analysis.html",
+    "href": "portfolio-website-template/listings/02-seo-benchmarking-analysis.html",
+    "title": "SEO Benchmarking Analysis",
     "section": "",
-    "text": "Sino Yoga Data Studio Project\n\nOverview\nThis project focused on analyzing Sino Yoga’s digital performance through an interactive analytics dashboard created in Google Data Studio (Looker Studio). The dashboard integrated website and YouTube performance metrics to evaluate audience engagement, search visibility, traffic behavior, and cross-platform growth opportunities. The primary objective was to assess how YouTube content contributed to website traffic, brand awareness, and customer engagement across digital channels\nThe project emphasized the importance of multi-channel integration and data-driven marketing strategies to support Sino Yoga’s long-term brand growth and monetization goals. Metrics such as website sessions, engagement trends, bounce rates, referral traffic, and audience interactions were analyzed to identify actionable insights for improving digital performance.\n\n\n\n\nLearning Outcomes\n\nDeveloped experience creating and interpreting interactive marketing dashboards using Google Data Studio (Looker Studio)\nStrengthened understanding of website analytics, YouTube performance tracking, and SEO visibility analysis\nLearned how to connect and visualize multi-channel marketing data to support strategic decision-making\nImproved ability to analyze customer engagement and traffic behavior across digital platforms\nApplied marketing analytics concepts to evaluate awareness-stage customer journey performance\nGained insight into how digital dashboards support reporting, optimization, and performance monitoring in marketing environments\n\n\n\n\nKey Skills Gained\n\nData Visualization: Created dashboards and visual reports to communicate marketing insights clearly and effectively using Google Data Studio.\nMarketing Analytics: Analyzed website traffic, YouTube engagement, and referral data to evaluate campaign and channel performance.\nSEO & Channel Visibility Analysis: Assessed search performance and discoverability opportunities for Sino Yoga’s website and YouTube content.\nPerformance Tracking: Monitored KPIs including website sessions, engagement rates, referral traffic, and audience behavior.\nCross-Platform Integration: Evaluated how YouTube traffic contributed to website engagement and brand growth across channels.\nStrategic Reporting: Synthesized analytical findings into actionable recommendations for improving digital growth and audience engagement.\nDigital Marketing Strategy: Applied data-driven insights to support brand awareness and monetization strategies for a wellness brand."
+    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
   },
   {
-    "objectID": "marketing-analytics.html",
-    "href": "marketing-analytics.html",
+    "objectID": "portfolio-website-template/listings/04-funnel-attribution-model.html",
+    "href": "portfolio-website-template/listings/04-funnel-attribution-model.html",
+    "title": "Marketing Funnel Attribution Model",
+    "section": "",
+    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
+  },
+  {
+    "objectID": "portfolio-website-template/marketing-analytics.html",
+    "href": "portfolio-website-template/marketing-analytics.html",
     "title": "Marketing Analytics",
     "section": "",
-    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results."
+    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.\nWhether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies."
   },
   {
-    "objectID": "marketing-analytics.html#overview",
-    "href": "marketing-analytics.html#overview",
+    "objectID": "portfolio-website-template/marketing-analytics.html#what-youll-find",
+    "href": "portfolio-website-template/marketing-analytics.html#what-youll-find",
     "title": "Marketing Analytics",
-    "section": "Overview",
-    "text": "Overview\nThis project focused on analyzing factors that influence academic student performance using machine learning techniques. Using a Kaggle Student Performance dataset containing 10,000 student records, the goal was to predict student performance based on study habits, previous scores, extracurricular participation, sleep patterns, and practice exam completion. The project emphasized data cleaning, predictive modeling, and evaluating the effectiveness of machine learning algorithms in educational analytics.\n\nTools Used\n\nR Programming Language\n\n\n\nMethodology\n\nData cleaning and feature engineering\nExploratory data validation\nModel training using Random Forest regression\nPerformance evaluation using RMSE, R², and MAE metrics\n\n\n\nVisualizations\nThe project included dataset summaries, variable structure analysis, and model evaluation metrics to interpret predictive performance. Statistical summaries and performance metrics were used to visualize the relationships between student behaviors and academic outcomes. The workflow also emphasized reproducibility and clean data practices through structured preprocessing and workflow pipelines in R."
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
   },
   {
-    "objectID": "marketing-analytics.html#overview-1",
-    "href": "marketing-analytics.html#overview-1",
-    "title": "Marketing Analytics",
-    "section": "Overview",
-    "text": "Overview\nThis project focused on designing and executing a customer satisfaction and brand loyalty survey for a fictional regional coffee chain, Bean There Done That, to analyze declining repeat purchase behavior. The research aimed to identify how customer satisfaction, product quality, and price perceptions influence customer retention and revisit intentions. The project combined survey research methodology with statistical analysis to generate actionable managerial insights for improving customer loyalty and repeat visits.\n\nLearning Outcomes\n\nDeveloped experience designing research-based surveys using marketing constructs and academic literature\n\n\n\nStrengthened understanding of customer satisfaction, brand loyalty, and consumer behavior analysis\n\n\n\nLearned how to apply quantitative research methods to real-world business problems\n\n\n\nGained experience conducting regression analysis and Chi-Square testing using SPSS\n\n\n\nImproved ability to interpret statistical findings and translate them into business recommendations\n\n\n\nEnhanced understanding of how data-driven insights support customer retention strategies and decision-making\n\n\n\nMethodology\n\nThe project used a structured survey research methodology supported by academic journal references and conceptual frameworks related to customer satisfaction,product quality, price consciousness, and brand loyalty.\nSurvey responses from 200 generated participants were analyzed using SPSS through descriptive statistics, multiple regression analysis, ANOVA testing, cross-tabulation, and Chi-Square testing."
-  },
-  {
-    "objectID": "marketing-analytics.html#overview-2",
-    "href": "marketing-analytics.html#overview-2",
-    "title": "Marketing Analytics",
-    "section": "Overview",
-    "text": "Overview\nThis project focused on analyzing Sino Yoga’s digital performance through an interactive analytics dashboard created in Google Data Studio (Looker Studio). The dashboard integrated website and YouTube performance metrics to evaluate audience engagement, search visibility, traffic behavior, and cross-platform growth opportunities. The primary objective was to assess how YouTube content contributed to website traffic, brand awareness, and customer engagement across digital channels\nThe project emphasized the importance of multi-channel integration and data-driven marketing strategies to support Sino Yoga’s long-term brand growth and monetization goals. Metrics such as website sessions, engagement trends, bounce rates, referral traffic, and audience interactions were analyzed to identify actionable insights for improving digital performance."
-  },
-  {
-    "objectID": "marketing-analytics.html#overview-3",
-    "href": "marketing-analytics.html#overview-3",
-    "title": "Marketing Analytics",
-    "section": "Overview",
-    "text": "Overview\nSino Yoga is a yoga and wellness brand that primarily broadcasts content through YouTube. Founded by Yang Qi, who has over 18 years of yoga expertise, the brand aims to expand its awareness and increase monetization opportunities through consistent digital growth and regular video uploads."
-  },
-  {
-    "objectID": "marketing-analytics.html#data",
-    "href": "marketing-analytics.html#data",
-    "title": "Marketing Analytics",
-    "section": "Data",
-    "text": "Data\nUsing YouTube Studio Data as csv files while cleaning the data and creating a Tableau interactive link to show SEO Performance and overall channel visibility.\nData CSV Links:\n\nTableau SEO Dashboard\nAs seen on this dashboard the audience is primarily 45 years and over females mainly from Taiwan dn the US. This strongly aligns with out clients goal of expanding to those target markets. That viewers are primarily using mobile devices to view the videos. This emphasizes the need to focus on mobile optimized content for all the videos. \nRegarding traffic to the YouTube channel, Sino Yoga relies largely on external traffic sources such as WeChat and Naver while YouTube & Google Search contribute to low traffic, indicating weak organic search visibility.\nInside of the YouTube platform traffic from vidoes shows CTR being 9-10% from Youtube search however the amount of times the video is shown or impressions are low compared to browse features traffic source. This suggest that while content performs well when discovered it lacks sufficient visibility in search results. \nTableau Interactive Link\n\n\n\nTime Series Plot\nThe time series plot shows the daily data of videos published regarding their impressions and over the channel’s lifetime. Initially starting with high ctr and high impressions but stabilizing between 4-7% indicate incosistent visibility. While the ability to create effective thumbnails and title, there is a lack of consistency and uniformity in optimization. Impressions decreasing also show that there is a low visibility throughout the entire video uploads. \nTableu Link to Interactive\n\n\n\nKeyword Research\nThe keyword analysis shows that while high-volume terms like yoga, health, and meditation drive the most search demand, they are highly competitive and difficult to rank for. In contrast, lower-competition keywords such as stretching, meridian, qi, and flexibility still offer meaningful search volume with a higher chance of ranking. This highlights a clear opportunity for Sino Yoga to shift toward niche, lower-difficulty keywords, enabling faster visibility in search and building stronger SEO performance over time. \nTableu Interactive Link"
-  },
-  {
-    "objectID": "portfolio-website-template/contact-us/thank-you.html",
-    "href": "portfolio-website-template/contact-us/thank-you.html",
-    "title": "Thank you",
+    "objectID": "portfolio-website-template/resume.html",
+    "href": "portfolio-website-template/resume.html",
+    "title": "Résumé",
     "section": "",
-    "text": "Form submitted."
-  },
-  {
-    "objectID": "portfolio-website-template/listings/01-campaign-insights-dashboard.html",
-    "href": "portfolio-website-template/listings/01-campaign-insights-dashboard.html",
-    "title": "Campaign Insights Dashboard",
-    "section": "",
-    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
-  },
-  {
-    "objectID": "portfolio-website-template/listings/03-customer-segmentation-clustering.html",
-    "href": "portfolio-website-template/listings/03-customer-segmentation-clustering.html",
-    "title": "Customer Segmentation Using Clustering",
-    "section": "",
-    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
-  },
-  {
-    "objectID": "portfolio-website-template/listings/05-social-media-engagement.html",
-    "href": "portfolio-website-template/listings/05-social-media-engagement.html",
-    "title": "Social Media Engagement Analysis",
-    "section": "",
-    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
-  },
-  {
-    "objectID": "portfolio-website-template/resume/Resume.html",
-    "href": "portfolio-website-template/resume/Resume.html",
-    "title": "Professional Summary",
-    "section": "",
-    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
-  },
-  {
-    "objectID": "portfolio-website-template/strategic-marketing.html",
-    "href": "portfolio-website-template/strategic-marketing.html",
-    "title": "Strategic Marketing",
-    "section": "",
-    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
-  },
-  {
-    "objectID": "portfolio-website-template/strategic-marketing.html#project-title-1-strategic-campaign-planning",
-    "href": "portfolio-website-template/strategic-marketing.html#project-title-1-strategic-campaign-planning",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 1: Strategic Campaign Planning]",
-    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
-  },
-  {
-    "objectID": "portfolio-website-template/strategic-marketing.html#project-title-2-brand-audit-positioning",
-    "href": "portfolio-website-template/strategic-marketing.html#project-title-2-brand-audit-positioning",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 2: Brand Audit & Positioning]",
-    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
-  },
-  {
-    "objectID": "portfolio-website-template/strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "href": "portfolio-website-template/strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
-    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
-  },
-  {
-    "objectID": "portfolio-website-template/strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "href": "portfolio-website-template/strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
-    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Your Degree]\n[Start – Graduation Year]\n[Your College or Department]\n[Your University]\n\n\n[Previous Degree or Certification]\n[Start – End Year]\n[Your College or Department]\n[Your University]\n\n\n\n\n\nWork Experience\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Responsibility or accomplishment #3]\n\n[Technical tools, collaboration, or outcomes]\n\n[Any metrics, impacts, or stakeholder involvement]\n\n\n\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Team leadership, training, or development]\n\n[Projects involving marketing, data, or web technologies]\n\n[Toolset used or strategies implemented]"
   },
   {
     "objectID": "resume.html",
