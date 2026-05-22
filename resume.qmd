@@ -1,13 +1,11 @@
 ---
 title: "Resume"
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
-```{r knit-resume, echo=FALSE, message=FALSE}
+```{r knit-resume, message=FALSE}
+#| eval: false
+#| include: false
 rmarkdown::render(
-  "resume/Resume.Rmd",
   output_format = "pdf_document",
   output_file   = "StephanieGutierrezResume.pdf",
   output_dir    = "resume",
@@ -24,31 +22,23 @@ You can view a PDF version of my resume:
 
 # Professional Summary
 
-Digital Marketing Masters student with extended knowledge in graphic
-communications and computer science, interested a full time position in
-the field of marketing that will allow me to utilize my skills in
-Hubspot, SemRuch, Tableau, and HTML to create strategic market
-opportunities for successful marketing campaigns.
+Digital Marketing Masters student with extended knowledge in graphic communications and computer science, interested a full time position in the field of marketing that will allow me to utilize my skills in Hubspot, SemRuch, Tableau, and HTML to create strategic market opportunities for successful marketing campaigns.
 
 # Technical Skills
 
--   **Marketing Skills:** Google Analytics, Google Tag Manager, Etsy
-    SEO, YouTube Studio
+-   **Marketing Skills:** Google Analytics, Google Tag Manager, Etsy SEO, YouTube Studio
 
 -   **Marketing Tools:** SemRush, Moz, Tableau, and IRB Certification
 
 -   **CRM Tools:** Salesforce, Hubspot, Asana Design
 
--   **Creative Tools:** Adobe (Photoshop, Illustrator, Acrobat,
-    Dimension), Canva
+-   **Creative Tools:** Adobe (Photoshop, Illustrator, Acrobat, Dimension), Canva
 
 -   **Video Creative Tools:** Adobe Premiere Pro and CapCut
 
--   **Office Software:** Microsoft Office (Word, Excel, PowerPoint,
-    Teams, Outlook), Google Workspace (Docs, Sheets, Slides)
+-   **Office Software:** Microsoft Office (Word, Excel, PowerPoint, Teams, Outlook), Google Workspace (Docs, Sheets, Slides)
 
--   **Programming Languages/ Markdown Languages:** R, Quarto, HTML, CSS,
-    SQL, Java
+-   **Programming Languages/ Markdown Languages:** R, Quarto, HTML, CSS, SQL, Java
 
 -   **Programming Tools:** GitHub, RStudio, Positron
 
@@ -56,23 +46,15 @@ opportunities for successful marketing campaigns.
 
 # Education
 
-+-----------------+------------+-----------------+-----------------+
-| Degree          | Year       | College /       | Institution     |
-|                 |            | Department      |                 |
-+=================+============+=================+=================+
-| M.S Digital     | 20 24-2026 | Singelyn        | California      |
-| Marketing       |            | College of      | State           |
-|                 |            | Business A      | Polytechnic     |
-|                 |            | dministration   | University,     |
-|                 |            |                 | Pomona          |
-+-----------------+------------+-----------------+-----------------+
-| B.S Graphic     | 2021       | College of ECST | California      |
-| Communication,  |            |                 | State           |
-|                 |            |                 | University, Los |
-| *Minor in       |            |                 | Angeles         |
-| Computer        |            |                 |                 |
-| Science*        |            |                 |                 |
-+-----------------+------------+-----------------+-----------------+
++-----------------------------+---------------+----------------------------------------------+-------------------------------------------------+
+| Degree                      | Year          | College / Department                         | Institution                                     |
++=============================+===============+==============================================+=================================================+
+| M.S Digital Marketing       | 20 24-2026    | Singelyn College of Business A dministration | California State Polytechnic University, Pomona |
++-----------------------------+---------------+----------------------------------------------+-------------------------------------------------+
+| B.S Graphic Communication,  | 2021          | College of ECST                              | California State University, Los Angeles        |
+|                             |               |                                              |                                                 |
+| *Minor in Computer Science* |               |                                              |                                                 |
++-----------------------------+---------------+----------------------------------------------+-------------------------------------------------+
 
 # Work Experience
 
@@ -80,12 +62,9 @@ opportunities for successful marketing campaigns.
 
 *Aug 2021 - Present*
 
--   Lead small business campaigns using Adobe Acrobat, Photoshop, and
-    also using the Staples workstation
--   Send weekly Salesforce email marketing campaigns to High Value
-    Customers
--   Train and supervise 5+ team members to ensure the weekly sales goals
-    dashboard
+-   Lead small business campaigns using Adobe Acrobat, Photoshop, and also using the Staples workstation
+-   Send weekly Salesforce email marketing campaigns to High Value Customers
+-   Train and supervise 5+ team members to ensure the weekly sales goals dashboard
 
 ------------------------------------------------------------------------
 
@@ -95,8 +74,7 @@ opportunities for successful marketing campaigns.
 
 -   Create and sell digital graphic templates and printable art
 
--   Optimizing the Etsy store through SEO and Etsy performance
-    statistics metrics driving over 400 sales
+-   Optimizing the Etsy store through SEO and Etsy performance statistics metrics driving over 400 sales
 
 -   Design promotional assets using Adobe Creative Suite and Canva
 
