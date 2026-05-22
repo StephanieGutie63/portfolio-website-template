@@ -6,14 +6,14 @@
 /*-- scss:defaults --*/
 
 // ── Brand Palette ────────────────────────────────
-$color-primary:   #123456;  // ← Replace with brand primary
-$color-secondary: #ABCDEF;  // ← Replace with brand secondary
+$color-primary:   #a62412;  // ← Replace with brand primary
+$color-secondary: #c13400;  // ← Replace with brand secondary
 
 // Optional accent & neutral tones
-$accent-1:  #FF7F00;  // e.g., highlight / link
+$accent-1:  #AD2808;  // e.g., highlight / link
 $accent-2:  #A6CE6E;  // e.g., success
-$neutral-0: #FFFFFF;  // light / backgrounds
-$neutral-1: #F5F5F5;  // eggshell / subtle sections
+$neutral-0: #fff3ee;  // light / backgrounds
+$neutral-1: #fff3ee;  // eggshell / subtle sections
 $neutral-9: #121212;  // near-black text
 
 // ── Typography ──────────────────────────────────
@@ -39,7 +39,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-primary;
   font-weight: bold;
-  margin-top: 0;
+  margin-top: 1;
 }
 
 h1 { color: $color-primary;   }
@@ -80,6 +80,28 @@ pre code {
   color: $neutral-0;
   padding: 0.2em 0.4em;
   border-radius: 0.2em;
+}
+
+/* Nav bar*/
+.navbar .navbar-nav .nav-link, .navbar-brand {
+    color: WHITE !important;
+    font-weight: bold;
+}
+.navbar{
+    background-color:#a62412!important;
+}
+
+.navbar .nav-link:hover{
+    color: orange !important;
+}
+
+/*button for resume link*/
+.custom-btn{
+  background-color:#a62412;
+  color: WHITE !important;
+  padding: 0.4em 0.4em!important;
+  border-radius: 10px;
+  font-weight: bold;
 }
 
 /* Example animation (optional) */

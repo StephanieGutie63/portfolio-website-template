@@ -1,28 +1,44 @@
 ---
-title: "Social Media Engagement Analysis"
-image: "https://placehold.co/600x400?text=Social+Media+Analysis"
-categories: [Social Media, Engagement Metrics, Content Strategy, Audience Analysis, Analytics]
+title: "Student Performance Prediction Using Random Forest Modeling"
+image: "student_performancethumbnail.png"
+categories: [Audience Analysis, Analytics]
 index: 5
 ---
 
-#### **Overview**  
-This analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.
+#### **Overview**
 
-::: {.columns}
+This project focused on analyzing factors that influence academic student performance using machine learning techniques. Using a Kaggle Student Performance dataset containing 10,000 student records, the goal was to predict student performance based on study habits, previous scores, extracurricular participation, sleep patterns, and practice exam completion. The project emphasized data cleaning, predictive modeling, and evaluating the effectiveness of machine learning algorithms in educational analytics.
+
+::::: columns
 ::: {.column width="50%"}
-#### **Learning Outcomes**  
-- Aggregate and clean social media data.  
-- Identify high-performing content formats.  
-- Understand audience behavior and peak times.  
-- Support social strategy with data-backed recommendations.  
-- Visualize results in an executive summary.
+#### **Outcomes**
+
+-   The Random Forest model demonstrated exceptionally strong predictive accuracy:
+
+-   R²: 0.986 (explained 98.6% of performance variation)
+
+-   RMSE: 2.40
+
+-   MAE: 1.89
 :::
+
 ::: {.column width="50%"}
-#### **Key Skills Gained**  
-- Social analytics  
-- Platform metric APIs  
-- Content performance tracking  
-- Audience insights  
-- Strategic planning
+#### **Key Skills Gained**
+
+The dataset was cleaned and transformed by standardizing variable names, converting categorical variables into numeric dummy variables, and selecting relevant predictor variables. Data preprocessing included normalization and removal of missing values using recipe workflows in R.
+
+The project used a **Random Forest regression model** to predict the dependent variable, *PerformanceIndex*. The dataset was split into training (80%) and testing (20%) sets to evaluate model performance. The workflow included:
+
+-   Data cleaning and feature engineering
+-   Exploratory data validation
+-   Model training using Random Forest regression
+-   Performance evaluation using RMSE, R², and MAE metrics
 :::
-:::
+:::::
+
+The results showed that factors such as study hours, previous academic performance, sleep habits, extracurricular involvement, and practice papers were highly predictive of student success. The model effectively minimized prediction error and demonstrated the potential for machine learning applications in educational performance analysis and early intervention strategies.
+
+```{=html}
+<iframe src="IBM 6540 Final Project.html" width="100%" height="800px">
+</iframe>
+```

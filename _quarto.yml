@@ -2,16 +2,16 @@ project:
   type: website
 
 website:
-  title: "YOUR NAME"
+  title: "Stephanie Gutierrez"
   navbar:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Digtial Marketing Projects"
+        href: strategic-marketing.qmd
       - text: "Marketing Analytics"
         href: marketing-analytics.qmd
-      - text: "Strategic Marketing"
-        href: strategic-marketing.qmd
-      - text: "Résumé"
+      - text: "Resume"
         href: resume.qmd
 
 

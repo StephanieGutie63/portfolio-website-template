@@ -1,28 +1,48 @@
 ---
-title: "Marketing Funnel Attribution Model"
-image: "https://placehold.co/600x400?text=Attribution+Model"
-categories: [Attribution, Marketing Funnel, Campaign Optimization, Analytics Modeling, Data Science]
+title: "Sino Yoga Data Studio Project"
+image: "dashboard.png"
+categories: [Data Looker]
 index: 4
 ---
 
-#### **Overview**  
-This project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.
+# Sino Yoga Data Studio Project
 
-::: {.columns}
+#### **Overview**
+
+This project focused on analyzing Sino Yoga’s digital performance through an interactive analytics dashboard created in Google Data Studio (Looker Studio). The dashboard integrated website and YouTube performance metrics to evaluate audience engagement, search visibility, traffic behavior, and cross-platform growth opportunities. The primary objective was to assess how YouTube content contributed to website traffic, brand awareness, and customer engagement across digital channels
+
+The project emphasized the importance of multi-channel integration and data-driven marketing strategies to support Sino Yoga’s long-term brand growth and monetization goals. Metrics such as website sessions, engagement trends, bounce rates, referral traffic, and audience interactions were analyzed to identify actionable insights for improving digital performance.
+
+::::: columns
 ::: {.column width="50%"}
-#### **Learning Outcomes**  
-- Track multi-touch customer journeys.  
-- Model attribution using first-touch, last-touch, and linear approaches.  
-- Visualize funnel performance.  
-- Quantify channel impact on conversion.  
-- Guide future campaign investment decisions.
+#### **Learning Outcomes**
+
+-   Developed experience creating and interpreting interactive marketing dashboards using Google Data Studio (Looker Studio)
+
+-   Strengthened understanding of website analytics, YouTube performance tracking, and SEO visibility analysis
+
+-   Learned how to connect and visualize multi-channel marketing data to support strategic decision-making
+
+-   Improved ability to analyze customer engagement and traffic behavior across digital platforms
+
+-   Applied marketing analytics concepts to evaluate awareness-stage customer journey performance
+
+-   Gained insight into how digital dashboards support reporting, optimization, and performance monitoring in marketing environments
 :::
+
 ::: {.column width="50%"}
-#### **Key Skills Gained**  
-- Attribution modeling  
-- Funnel analysis  
-- Data visualization  
-- Campaign performance analysis  
-- R or Python analytics pipelines
+#### **Key Skills Gained**
+
+-   **Data Visualization:** Created dashboards and visual reports to communicate marketing insights clearly and effectively using Google Data Studio.
+-   **Marketing Analytics:** Analyzed website traffic, YouTube engagement, and referral data to evaluate campaign and channel performance.
+-   **SEO & Channel Visibility Analysis:** Assessed search performance and discoverability opportunities for Sino Yoga’s website and YouTube content.
+-   **Performance Tracking:** Monitored KPIs including website sessions, engagement rates, referral traffic, and audience behavior.
+-   **Cross-Platform Integration:** Evaluated how YouTube traffic contributed to website engagement and brand growth across channels.
+-   **Strategic Reporting:** Synthesized analytical findings into actionable recommendations for improving digital growth and audience engagement.
+-   **Digital Marketing Strategy:** Applied data-driven insights to support brand awareness and monetization strategies for a wellness brand.
 :::
-:::
+:::::
+
+```{=html}
+<iframe width="600" height="800" src="https://datastudio.google.com/embed/reporting/8fb540f7-c90c-42e4-b9d8-a06a8e872fc6/page/NDKxF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+```

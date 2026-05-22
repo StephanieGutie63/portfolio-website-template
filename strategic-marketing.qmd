@@ -1,60 +1,148 @@
 ---
-title: "Strategic Marketing"
+title: "Digital  Marketing Projects "
 ---
 
 Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success.
 
-## [Project Title 1: Strategic Campaign Planning]
+## Ontario California Airport - ONT
 
-In this project, I led the development of a comprehensive marketing campaign for **[product, service, or initiative]**. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.
+This project involved developing a comprehensive digital marketing strategy for Ontario International Airport (ONT) to address brand awareness, customer engagement, and digital growth opportunities. Working in a consulting-style team environment, the project analyzed ONT’s digital presence, customer journey, competitor landscape, and marketing channels to identify strategies that could improve traveler engagement and strengthen the airport’s competitive positioning.
 
-**Skills Demonstrated:**
+The presentation included a detailed evaluation of ONT’s website, SEO performance, social media presence, audience targeting, and competitive benchmarking against other airports and travel brands. Strategic recommendations focused on improving digital visibility, enhancing customer communication, increasing engagement across digital channels, and supporting long-term brand growth through data-driven marketing initiatives.
 
-- **Marketing Strategy:** Defined objectives and tactics for maximum impact.
-- **Team Coordination:** Oversaw collaboration across creative, data, and channel teams.
-- **Performance Tracking:** Implemented real-time metrics and post-campaign analysis.
-- **Brand Positioning:** Ensured consistency across all touchpoints.
+### Skills Demonstrated
 
----
+-   **Digital Marketing Strategy:** Developed integrated marketing recommendations to improve awareness, engagement, and customer acquisition.
 
-## [Project Title 2: Brand Audit & Positioning]
+-   **Brand Positioning:** Evaluated ONT’s market perception and identified opportunities to strengthen competitive differentiation.
 
-This initiative involved conducting a full brand audit for **[organization or brand]**, evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.
+-   **SEO & Website Analysis:** Conducted website and search visibility evaluations to identify opportunities for improved online performance.
 
-**Skills Demonstrated:**
+-   **Competitive Benchmarking:** Compared ONT’s digital presence and customer engagement strategies against industry competitors.
 
-- **Brand Analysis:** Audited messaging, tone, and visual identity.
-- **Competitive Benchmarking:** Evaluated brand positioning within the market.
-- **Strategic Communication:** Developed new value propositions and storytelling elements.
-- **Stakeholder Presentation:** Delivered recommendations to senior leadership.
+-   **Customer Journey Analysis:** Assessed traveler touchpoints and engagement opportunities throughout the customer funnel.
 
----
+-   **Social Media Strategy:** Analyzed social media performance and proposed content and engagement improvements.
 
-## [Project Title 3: Product Launch Go-to-Market Plan]
+-   **Team Collaboration & Client Presentation:** Worked collaboratively to research, develop, and present strategic recommendations in a professional consulting format.
 
-For the release of **[new product/service]**, I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.
+```{=html}
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVtS7dsl89p1it0X3A4dmwf9tlcAbHcNQyNfEawOdbPL9CJQMxV2Bw2mOfDF2ezOUoH6lcJynmqPJP/pubembed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+</div>
+```
 
-**Skills Demonstrated:**
+------------------------------------------------------------------------
 
-- **Go-to-Market Strategy:** Developed a clear launch roadmap aligned with buyer needs.
-- **Integrated Marketing:** Orchestrated email, paid ads, social, and on-site promotions.
-- **Budget Management:** Allocated resources efficiently across tactics.
-- **Launch Optimization:** Tracked performance and refined tactics in real time.
+## SEPHORA Brand Audit & Positioning
 
-Below is an embedded demonstration of the interactive report:
+This project focused on conducting a brand audit and positioning analysis for Sephora, examining the company’s market presence, customer engagement strategies, and competitive positioning within the beauty and cosmetics industry. The presentation evaluated Sephora’s branding, digital marketing efforts, social media presence, and customer experience to identify strengths and opportunities for improvement.
 
+The project included competitor benchmarking, target audience analysis, and strategic recommendations designed to strengthen brand differentiation and customer loyalty. Insights were synthesized into actionable recommendations related to brand communication, digital engagement, and overall marketing strategy.
 
-<iframe src="data/TRI SEO Comparison.html" width="100%" height="600px" style="border: none;"></iframe>
+### Skills Demonstrated
 
----
+-   **Brand Analysis:** Assessed Sephora’s messaging, visual identity, customer engagement, and overall brand perception.
 
-## [Project Title 4: Client Consulting & Campaign Optimization]
+-   **Competitive Benchmarking:** Compared Sephora’s market positioning and digital presence against key competitors in the beauty industry.
 
-I collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.
+-   **Strategic Communication:** Developed recommendations to enhance brand storytelling, customer connection, and marketing effectiveness.
 
-**Skills Demonstrated:**
+-   **Consumer Insights:** Analyzed target audience behaviors and engagement patterns to support branding recommendations.
 
-- **Client Consulting:** Provided clear insights and strategic guidance.
-- **Persona Development:** Built target personas to guide messaging.
-- **Campaign Optimization:** Identified and addressed areas of underperformance.
-- **Data-Driven Adjustments:** Leveraged analytics to refine tactics.
+-   **Marketing Strategy:** Evaluated digital marketing channels and customer experience strategies to identify growth opportunities.
+
+-   **Presentation & Stakeholder Communication:** Presented findings and strategic recommendations through a professional visual presentation.
+
+```{=html}
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGvLWPItMw/48NSSap-LF0prw05Q3xGJA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGvLWPItMw&#x2F;48NSSap-LF0prw05Q3xGJA&#x2F;view?utm_content=DAGvLWPItMw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">SEPHORA PRESENTATION</a>
+```
+
+------------------------------------------------------------------------
+
+## Cal Poly Pomona BRIC Tour Video Production
+
+**Project Link:** <https://www.youtube.com/watch?v=Yz-NHwnVpJ0&t=1s>
+
+This project involved the production of a promotional and informational video showcasing the Cal Poly Pomona BRIC (Bronco Recreation and Intramural Complex), a 165,000-square-foot fitness and wellness center designed to support student wellness and campus life. The video highlighted key features of the facility, including Bronco Peak rock climbing wall, fitness studios, indoor track, lap pool, cardio equipment, intramural sports spaces, and student amenities.
+
+I contributed to the project through videography, creative direction, and post-production editing. My role included capturing footage throughout the facility, assisting with scene planning and shot composition, and editing the final video to create an engaging and informative viewing experience. The project focused on promoting student engagement, increasing awareness of campus resources, and delivering visually compelling digital content tailored to prospective and current students.
+
+The final video reached over 1,300 views and helped communicate the value of the BRIC as an important part of student life at Cal Poly Pomona.
+
+### Skills Demonstrated
+
+-   **Video Editing:** Edited footage using pacing, transitions, audio synchronization, and storytelling techniques to create a polished final product.
+
+-   **Videography:** Captured dynamic footage of campus facilities with attention to framing, movement, and composition.
+
+-   **Content Production:** Collaborated on the filming and production of promotional digital media content.
+
+-   **Brand Communication:** Helped communicate Cal Poly Pomona’s student wellness and campus life initiatives through visual storytelling.
+
+-   **Audience Engagement:** Produced engaging content designed to inform and connect with current and prospective students.
+
+-   **Team Collaboration:** Worked closely with collaborators throughout filming and post-production processes.
+
+-   **Digital Media Strategy:** Supported the creation of platform-friendly video content optimized for YouTube and student audiences.
+
+```{=html}
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Yz-NHwnVpJ0?si=xQAJGRR6fiReB30q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+```
+
+------------------------------------------------------------------------
+
+## Sino Yoga — Digital Marketing Strategy Project
+
+**Client:** Sino Yoga
+
+**Role:** Digital Marketing Consultant (Team Project)
+
+**Platform Focus:** YouTube & Social Media Marketing
+
+### Project Overview
+
+Collaborated with a student consulting team to develop a digital marketing strategy for Sino Yoga, a yoga and wellness brand founded by Yang Qi, who has over 18 years of yoga expertise. The project focused on helping the brand increase awareness, improve YouTube visibility, and expand monetization opportunities through consistent digital content and audience growth strategies.
+
+### Skills Demonstrated
+
+-   **Marketing Strategy:** Developed digital marketing recommendations to improve brand awareness, audience growth, and monetization opportunities.
+
+-   **Team Coordination:** Collaborated with team members to research, analyze, and present a client-focused marketing strategy.
+
+-   **Performance Tracking:** Evaluated YouTube SEO, engagement metrics, and channel visibility to identify growth opportunities and measure success.
+
+-   **Brand Positioning:** Helped define Sino Yoga’s positioning within the wellness market through competitor and audience analysis.
+
+-   **SEO & Content Optimization:** Analyzed YouTube search performance and recommended optimization strategies to improve discoverability and engagement.
+
+-   **Data-Driven Decision Making:** Used analytics and audit findings to support strategic marketing recommendations.
+
+-   **Customer Journey Analysis:** Assessed the awareness stage of the customer funnel to improve audience acquisition and retention strategies.
+
+-   **Client Consulting:** Presented actionable insights and strategic recommendations tailored to the client’s business goals.
+
+```{=html}
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAHKVcJUEbE/dyG6O5k1xO3EQI5fZjazqg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHKVcJUEbE&#x2F;dyG6O5k1xO3EQI5fZjazqg&#x2F;view?utm_content=DAHKVcJUEbE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">MSDM PRESENTATION</a>
+```
