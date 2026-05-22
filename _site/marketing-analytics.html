@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.27">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Marketing Analytics – Stephanie Gutierrez</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-e25da634c619c6c84dba616f44afc3f0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-123ABC78');</script>
+
+<!-- End Google Tag Manager -->
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Stephanie Gutierrez</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./strategic-marketing.html"> 
+<span class="menu-text">Digtial Marketing Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./marketing-analytics.html" aria-current="page"> 
+<span class="menu-text">Marketing Analytics</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./resume.html"> 
+<span class="menu-text">Resume</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#student-performance-prediction-using-random-forest-modeling" id="toc-student-performance-prediction-using-random-forest-modeling" class="nav-link active" data-scroll-target="#student-performance-prediction-using-random-forest-modeling">1.Student Performance Prediction Using Random Forest Modeling</a>
+  <ul class="collapse">
+  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview">Overview</a>
+  <ul class="collapse">
+  <li><a href="#tools-used" id="toc-tools-used" class="nav-link" data-scroll-target="#tools-used">Tools Used</a></li>
+  <li><a href="#methodology" id="toc-methodology" class="nav-link" data-scroll-target="#methodology">Methodology</a></li>
+  <li><a href="#visualizations" id="toc-visualizations" class="nav-link" data-scroll-target="#visualizations">Visualizations</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#customer-retention-analysis-project" id="toc-customer-retention-analysis-project" class="nav-link" data-scroll-target="#customer-retention-analysis-project">2.Customer Retention Analysis Project</a>
+  <ul class="collapse">
+  <li><a href="#overview-1" id="toc-overview-1" class="nav-link" data-scroll-target="#overview-1">Overview</a>
+  <ul class="collapse">
+  <li><a href="#learning-outcomes" id="toc-learning-outcomes" class="nav-link" data-scroll-target="#learning-outcomes">Learning Outcomes</a></li>
+  <li><a href="#methodology-1" id="toc-methodology-1" class="nav-link" data-scroll-target="#methodology-1">Methodology</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#sino-yoga-data-studio-project" id="toc-sino-yoga-data-studio-project" class="nav-link" data-scroll-target="#sino-yoga-data-studio-project">3.Sino Yoga Data Studio Project</a>
+  <ul class="collapse">
+  <li><a href="#overview-2" id="toc-overview-2" class="nav-link" data-scroll-target="#overview-2">Overview</a></li>
+  </ul></li>
+  <li><a href="#sino-yoga-analytical-objective" id="toc-sino-yoga-analytical-objective" class="nav-link" data-scroll-target="#sino-yoga-analytical-objective">4.Sino Yoga Analytical Objective</a>
+  <ul class="collapse">
+  <li><a href="#overview-3" id="toc-overview-3" class="nav-link" data-scroll-target="#overview-3">Overview</a></li>
+  <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data">Data</a>
+  <ul class="collapse">
+  <li><a href="#tableau-seo-dashboard" id="toc-tableau-seo-dashboard" class="nav-link" data-scroll-target="#tableau-seo-dashboard">Tableau SEO Dashboard</a></li>
+  <li><a href="#time-series-plot" id="toc-time-series-plot" class="nav-link" data-scroll-target="#time-series-plot">Time Series Plot</a></li>
+  <li><a href="#keyword-research" id="toc-keyword-research" class="nav-link" data-scroll-target="#keyword-research">Keyword Research</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+</nav>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="QW5hbHl0aWNz">Analytics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXVkaWVuY2UlMjBBbmFseXNpcw==">Audience Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q3VzdG9tZXIlMjBJbnNpZ2h0cw==">Customer Insights <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSUyMExvb2tlcg==">Data Looker <span class="quarto-category-count">(1)</span></div></div></div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-123ABC78" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Marketing Analytics</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.</p>
+<section id="student-performance-prediction-using-random-forest-modeling" class="level1">
+<h1>1.Student Performance Prediction Using Random Forest Modeling</h1>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>This project focused on analyzing factors that influence academic student performance using machine learning techniques. Using a Kaggle Student Performance dataset containing 10,000 student records, the goal was to predict student performance based on study habits, previous scores, extracurricular participation, sleep patterns, and practice exam completion. The project emphasized data cleaning, predictive modeling, and evaluating the effectiveness of machine learning algorithms in educational analytics.</p>
+<section id="tools-used" class="level3">
+<h3 class="anchored" data-anchor-id="tools-used">Tools Used</h3>
+<ul>
+<li>R Programming Language</li>
+</ul>
+</section>
+<section id="methodology" class="level3">
+<h3 class="anchored" data-anchor-id="methodology">Methodology</h3>
+<ul>
+<li>Data cleaning and feature engineering</li>
+<li>Exploratory data validation</li>
+<li>Model training using Random Forest regression</li>
+<li>Performance evaluation using RMSE, R², and MAE metrics</li>
+</ul>
+</section>
+<section id="visualizations" class="level3">
+<h3 class="anchored" data-anchor-id="visualizations">Visualizations</h3>
+<p>The project included dataset summaries, variable structure analysis, and model evaluation metrics to interpret predictive performance. Statistical summaries and performance metrics were used to visualize the relationships between student behaviors and academic outcomes. The workflow also emphasized reproducibility and clean data practices through structured preprocessing and workflow pipelines in R.</p>
+</section>
+</section>
+</section>
+<section id="customer-retention-analysis-project" class="level1">
+<h1>2.Customer Retention Analysis Project</h1>
+<section id="overview-1" class="level2">
+<h2 class="anchored" data-anchor-id="overview-1">Overview</h2>
+<p>This project focused on designing and executing a customer satisfaction and brand loyalty survey for a fictional regional coffee chain, <em>Bean There Done That</em>, to analyze declining repeat purchase behavior. The research aimed to identify how customer satisfaction, product quality, and price perceptions influence customer retention and revisit intentions. The project combined survey research methodology with statistical analysis to generate actionable managerial insights for improving customer loyalty and repeat visits.</p>
+<section id="learning-outcomes" class="level3">
+<h3 class="anchored" data-anchor-id="learning-outcomes">Learning Outcomes</h3>
+<ul>
+<li>Developed experience designing research-based surveys using marketing constructs and academic literature</li>
+</ul>
+<!-- -->
+<ul>
+<li>Strengthened understanding of customer satisfaction, brand loyalty, and consumer behavior analysis</li>
+</ul>
+<!-- -->
+<ul>
+<li>Learned how to apply quantitative research methods to real-world business problems</li>
+</ul>
+<!-- -->
+<ul>
+<li>Gained experience conducting regression analysis and Chi-Square testing using SPSS</li>
+</ul>
+<!-- -->
+<ul>
+<li>Improved ability to interpret statistical findings and translate them into business recommendations</li>
+</ul>
+<!-- -->
+<ul>
+<li>Enhanced understanding of how data-driven insights support customer retention strategies and decision-making</li>
+</ul>
+</section>
+<section id="methodology-1" class="level3">
+<h3 class="anchored" data-anchor-id="methodology-1">Methodology</h3>
+<ul>
+<li>The project used a structured survey research methodology supported by academic journal references and conceptual frameworks related to customer satisfaction,product quality, price consciousness, and brand loyalty.</li>
+<li>Survey responses from 200 generated participants were analyzed using SPSS through descriptive statistics, multiple regression analysis, ANOVA testing, cross-tabulation, and Chi-Square testing.</li>
+</ul>
+</section>
+</section>
+</section>
+<section id="sino-yoga-data-studio-project" class="level1">
+<h1>3.Sino Yoga Data Studio Project</h1>
+<section id="overview-2" class="level2">
+<h2 class="anchored" data-anchor-id="overview-2">Overview</h2>
+<p>This project focused on analyzing Sino Yoga’s digital performance through an interactive analytics dashboard created in Google Data Studio (Looker Studio). The dashboard integrated website and YouTube performance metrics to evaluate audience engagement, search visibility, traffic behavior, and cross-platform growth opportunities. The primary objective was to assess how YouTube content contributed to website traffic, brand awareness, and customer engagement across digital channels</p>
+<p>The project emphasized the importance of multi-channel integration and data-driven marketing strategies to support Sino Yoga’s long-term brand growth and monetization goals. Metrics such as website sessions, engagement trends, bounce rates, referral traffic, and audience interactions were analyzed to identify actionable insights for improving digital performance.</p>
+<iframe width="600" height="800" src="https://datastudio.google.com/embed/reporting/8fb540f7-c90c-42e4-b9d8-a06a8e872fc6/page/NDKxF" frameborder="0" style="border:0" allowfullscreen="" sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+</section>
+</section>
+<section id="sino-yoga-analytical-objective" class="level1">
+<h1>4.Sino Yoga Analytical Objective</h1>
+<section id="overview-3" class="level2">
+<h2 class="anchored" data-anchor-id="overview-3">Overview</h2>
+<p>Sino Yoga is a yoga and wellness brand that primarily broadcasts content through YouTube. Founded by Yang Qi, who has over 18 years of yoga expertise, the brand aims to expand its awareness and increase monetization opportunities through consistent digital growth and regular video uploads.</p>
+</section>
+<section id="data" class="level2">
+<h2 class="anchored" data-anchor-id="data">Data</h2>
+<p>Using YouTube Studio Data as csv files while cleaning the data and creating a Tableau interactive link to show SEO Performance and overall channel visibility.</p>
+<p>Data CSV Links:</p>
+<section id="tableau-seo-dashboard" class="level3">
+<h3 class="anchored" data-anchor-id="tableau-seo-dashboard">Tableau SEO Dashboard</h3>
+<p>As seen on this dashboard the audience is primarily 45 years and over females mainly from Taiwan dn the US. This strongly aligns with out clients goal of expanding to those target markets. That viewers are primarily using mobile devices to view the videos. This emphasizes the need to focus on mobile optimized content for all the videos.&nbsp;</p>
+<p>Regarding traffic to the YouTube channel, Sino Yoga relies largely on external traffic sources such as WeChat and Naver while YouTube &amp; Google Search contribute to low traffic, indicating weak organic search visibility.</p>
+<p>Inside of the YouTube platform traffic from vidoes shows CTR being 9-10% from Youtube search however the amount of times the video is shown or impressions are low compared to browse features traffic source. This suggest that while content performs well when discovered it lacks sufficient visibility in search results.&nbsp;</p>
+<p><a href="https://public.tableau.com/views/Dashboard_17769899285630/Dashboard5?:language=en-US&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link"><strong>Tableau Interactive Link</strong></a></p>
+<p><img src="images/image.png" class="img-fluid"></p>
+</section>
+<section id="time-series-plot" class="level3">
+<h3 class="anchored" data-anchor-id="time-series-plot">Time Series Plot</h3>
+<p>The time series plot shows the daily data of videos published regarding their impressions and over the channel’s lifetime. Initially starting with high ctr and high impressions but stabilizing between 4-7% indicate incosistent visibility. While the ability to create effective thumbnails and title, there is a lack of consistency and uniformity in optimization. Impressions decreasing also show that there is a low visibility throughout the entire video uploads.&nbsp;</p>
+<p><a href="https://public.tableau.com/views/CTRofVideoPublished/Sheet1?:language=en-US&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link"><strong>Tableu Link to Interactive</strong></a></p>
+<p><img src="https://public.tableau.com/static/images/CT/CTRofVideoPublished/Sheet1/1_rss.png" class="img-fluid" style="border: none"></p>
+</section>
+<section id="keyword-research" class="level3">
+<h3 class="anchored" data-anchor-id="keyword-research">Keyword Research</h3>
+<p>The keyword analysis shows that while high-volume terms like yoga, health, and meditation drive the most search demand, they are highly competitive and difficult to rank for. In contrast, lower-competition keywords such as stretching, meridian, qi, and flexibility still offer meaningful search volume with a higher chance of ranking. This highlights a clear opportunity for Sino Yoga to shift toward <strong>niche, lower-difficulty keywords</strong>, enabling faster visibility in search and building stronger SEO performance over time.&nbsp;</p>
+<p><a href="https://public.tableau.com/views/KeywordCompetition/Dashboard1?:language=en-US&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link"><strong>Tableu Interactive Link</strong></a></p>
+<p><img src="https://public.tableau.com/static/images/Ke/KeywordCompetition/Dashboard1/1_rss.png" class="img-fluid" style="border: none" alt="Dashboard 1"></p>
+<iframe src="RevealSlides.html" width="100%" height="600px">
+</iframe>
+
+
+
+</section>
+</section>
+</section>
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="QXVkaWVuY2UlMjBBbmFseXNpcyUyQ0FuYWx5dGljcw==" data-listing-file-modified-sort="1779412427113" data-listing-reading-time-sort="2" data-listing-word-count-sort="249">
+<a href="./listings/05-social-media-engagement.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./listings/student_performancethumbnail.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Student Performance Prediction Using Random Forest Modeling
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QXVkaWVuY2UlMjBBbmFseXNpcw=='); return false;">Audience Analysis</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('QW5hbHl0aWNz'); return false;">Analytics</div>
+
+</div>
+<div class="card-text listing-description delink">
+This project focused on analyzing factors that influence academic student performance using machine learning techniques. Using a Kaggle Student Performance dataset…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="RGF0YSUyMExvb2tlcg==" data-listing-file-modified-sort="1779427930397" data-listing-reading-time-sort="2" data-listing-word-count-sort="344">
+<a href="./listings/04-funnel-attribution-model.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./listings/dashboard.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sino Yoga Data Studio Project
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSUyMExvb2tlcg=='); return false;">Data Looker</div>
+
+</div>
+<div class="card-text listing-description delink">
+This project focused on analyzing Sino Yoga’s digital performance through an interactive analytics dashboard created in Google Data Studio (Looker Studio). The dashboard…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Q3VzdG9tZXIlMjBJbnNpZ2h0cw==" data-listing-file-modified-sort="1779430137656" data-listing-reading-time-sort="2" data-listing-word-count-sort="351">
+<a href="./listings/03-customer-segmentation-clustering.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./listings/customerretention.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Customer Retention Analysis Project
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q3VzdG9tZXIlMjBJbnNpZ2h0cw=='); return false;">Customer Insights</div>
+
+</div>
+<div class="card-text listing-description delink">
+This project focused on designing and executing a customer satisfaction and brand loyalty survey for a fictional regional coffee chain, Bean There Done That, to analyze…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

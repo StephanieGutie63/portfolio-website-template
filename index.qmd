@@ -1,0 +1,38 @@
+---
+title: "Hi, I'm Stephanie Gutierrez"
+---
+
+::::: columns
+::: {.column width="30%"}
+![](images/profile%20picture.jpg){style="border-radius: 50%;"}
+:::
+
+::: {.column width="80%" style="padding-left: 3rem;"}
+I'm a digital marketer. I specialize in transforming complex information into clear, engaging, and actionable insights.
+:::
+:::::
+
+## About Me
+
+I am currently pursuing a Master’s degree in Digital Marketing at Cal Poly Pomona, with a background in graphic communication and computer science. Through my academic and professional experience, I have developed skills in social media management, data analysis, SEO, and survey research. I am passionate about combining creativity with data and design to develop impact, data-driven marketing strategies.
+
+## Let's Connect
+
+**Email:** [**stephgraphx\@gmail.com**]{.underline}
+
+**LinkedIn: [Stephanie Gutierrez](https://www.linkedin.com/in/stephanie-gutierrez-077617251/)**
+
+## Creative Portfolio
+
+```{=html}
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGt6YsmFpY/LjKx-PyQrCLM72xEeRaKjg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGt6YsmFpY&#x2F;LjKx-PyQrCLM72xEeRaKjg&#x2F;view?utm_content=DAGt6YsmFpY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Stephanie Gutierrez Portfolio</a>
+```
+
+------------------------------------------------------------------------
