@@ -1,6 +1,6 @@
 ---
 title: "Final Client Package"
-subtitle: " Sino Yoga Proposal Presentation"
+subtitle: "Sino Yoga Proposal Presentation"
 author: "Stephanie Gutierrez, Marlen Garcia, Erika Barajas, Abby Ortiz"
 institute: "IBM 6530 Cal Poly Pomona"
 date: "`r Sys.Date()`"
@@ -9,22 +9,22 @@ format:
     theme: serif
     width: 1600
     height: 900
-    footer: Sino Yoga
+    footer: "Sino Yoga"
     transition: slide
     transition-speed: default
     incremental: false
     toc: true
-    toc-depth: 1
+    toc-depth: 3
     slide-number: true
     scrollable: true
     smaller: true
-    code-fold: false
-    code-overflow: wrap
     number-sections: false
     number-depth: 5
     embed-resources: true
     css: styles.css
+    
 editor: visual
+
 execute: 
   echo: true
   freeze: auto
@@ -51,7 +51,7 @@ Sino Yoga's primary growth objectives shape the analytical scope of this engagem
 
 # 2.Descriptive Insights
 
-### Data Source
+## Data Source
 
 Big Query data used linked from Google Analytics of the Sino Yoga Website. Also exported old GA4 data before linked to Big Query could occur since Big Query only shows events from when it was linked to GA4 only limited data available.
 
@@ -269,7 +269,7 @@ No content flow → no conversion funnel
 > How do we increase visibility on the YouTube Channel and attract high-intent users?
 
 | KPIs | Metric Definition | BreakDown | Data Source | Assumptions |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 | Impressions | Number of times a video thumbnail is shown to users on YouTube, measures how often content is seen reach and visibility of videos | Traffic Source (Search, Browse, Suggested | YouTube Studio Analytics | Search Traffic= high intent users |
 | Click-Through Rate (CTR) | CTR = (Clicks / Impressions x 100) Measuring how effectively titles/thumbnails drive clicks on videos | Video Title /Keyword & UTM | YouTube, GA4 & GTM | CTR reflects content packaging effectiveness |
 
@@ -278,7 +278,7 @@ No content flow → no conversion funnel
 > How can we build a cohesive yoga community that connects viewers across YouTube, our website to drive engagement and long-term growth?
 
 | KPIs | Metric Definition | BreakDown | Data Source | Assumptions |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 | Cross Platform Traffic (YouTube -\> Website) | Number of website sessions from YouTube | Traffic Source & UTM Parameters | YouTube & GTM | YouTube users represent core audience |
 | Engagement Rate | Percentage of users who interact with content (likes, comments, & shares E= (total interactions/total views) x100 | Video Title /Keyword & UTDevice & Content Type | GA4 & YouTube | Engagement reflect active viewers |
 | Returning Users | Percentage of users who return to the website or channel after first visit Returning Users Rate =(Returning users / Total Users) x100 | New users vs. Returning users | GA4 & YouTube | Returning users indicate stronger community engagement |
@@ -288,7 +288,7 @@ No content flow → no conversion funnel
 > How can we deepen engagement with our YouTube viewers and build enough value and trust for them to choose a paid membership?
 
 | KPIs | Metric Definition | BreakDown | Data Source | Assumptions |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 | Watch Time | Total time viewers watch videos(hrs) indicates depth of engagement & content value | video type & content type | YouTube Studio Analytics | Higher watch time indicate strong value & trust |
 | Average View Durationgement Rate | Average time viewer spends watching video (AVD= Watch Time / Views) | video length & audience segment | YouTube Studio Analytics | engagement reflects active users with channel |
 | Engagement Rate | Percentage of users who interact with content (likes, comments, & shares E= (total interactions/total views) x100 | video topic & CTA | YouTube Studio Analytics | users who engage & return frequently are more likely to convert to paying members |

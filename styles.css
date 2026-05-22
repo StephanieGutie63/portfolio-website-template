@@ -1,0 +1,80 @@
+/* styles.css for RevealSlides.qmd - Sino Yoga Proposal Presentation */
+.reveal{
+  background-color: #AABA99;
+  color: black;
+}
+
+.reveal h1,
+.reveal h2 {
+  margin-bottom: 25px;
+}
+.reveal h2,.reveal h3, .reveal h4{
+  color:white;
+}
+.reveal section {
+  padding-top: 20px;
+}
+#title-slide {
+  background:
+    linear-gradient(rgba(255, 250, 243, 0.86), rgba(255, 250, 243, 0.86)),
+    radial-gradient(circle at center, rgba(143, 174, 155, 0.25), transparent 48%);
+  border: 1px solid var(--sy-line);
+  border-radius: 28px;
+  box-shadow: var(--sy-shadow);
+  padding: 90px 70px !important;
+}
+.reveal .title-slide h1 {
+  padding: 0.55em 0.9em;
+  background: rgba(255, 250, 243, 0.82);
+  border: 1px solid var(--sy-line);
+  border-radius: 24px;
+  box-shadow: var(--sy-shadow);
+}
+
+/* -----------------------------
+   Tables
+------------------------------ */
+.reveal table {
+  width: 100%;
+  background: rgba(255, 250, 243, 0.92);
+  border-radius: 18px;
+  box-shadow: 0 14px 36px rgba(38, 51, 45, 0.10);
+}
+
+.reveal table th {
+  background: var(--sy-sage-dark);
+  color: #fffaf3;
+  font-weight: 800;
+}
+
+.reveal table th,
+.reveal table td {
+  border: 1px solid rgba(38, 51, 45, 0.12);
+  padding: 0.55em 0.65em;
+  vertical-align: top;
+}
+
+.reveal table tr:nth-child(even) td {
+  background: rgba(143, 174, 155, 0.08);
+}
+
+/* -----------------------------
+   Footer, slide numbers, progress
+------------------------------ */
+.reveal .footer,
+.reveal .slide-footer {
+  color: var(--sy-muted);
+  font-size: 0.42em;
+}
+
+.reveal .slide-number {
+  background: rgba(77, 118, 93, 0.88);
+  color: #fffaf3;
+  border-radius: 999px;
+  padding: 6px 10px;
+}
+
+.reveal .progress {
+  color: var(--sy-clay);
+}
+
