@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Customer Retention Analysis Project – Stephanie Gutierrez</title>
+<title>Student Performance Prediction Using Random Forest Modeling – Stephanie Gutierrez</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -129,14 +129,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#methodology-visualization" id="toc-methodology-visualization" class="nav-link active" data-scroll-target="#methodology-visualization">Methodology &amp; Visualization</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -148,9 +142,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Customer Retention Analysis Project</h1>
+<h1 class="title">Student Performance Prediction Using Random Forest Modeling</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Customer Insights</div>
+    <div class="quarto-category">Audience Analysis</div>
+    <div class="quarto-category">Analytics</div>
   </div>
   </div>
 
@@ -170,45 +165,38 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <section id="overview" class="level4">
 <h4 class="anchored" data-anchor-id="overview"><strong>Overview</strong></h4>
-<p>This project focused on designing and executing a customer satisfaction and brand loyalty survey for a fictional regional coffee chain, Bean There Done That, to analyze declining repeat purchase behavior. The research aimed to identify how customer satisfaction, product quality, and price perceptions influence customer retention and revisit intentions. The project combined survey research methodology with statistical analysis to generate actionable managerial insights for improving customer loyalty and repeat visits.</p>
+<p>This project focused on analyzing factors that influence academic student performance using machine learning techniques. Using a Kaggle Student Performance dataset containing 10,000 student records, the goal was to predict student performance based on study habits, previous scores, extracurricular participation, sleep patterns, and practice exam completion. The project emphasized data cleaning, predictive modeling, and evaluating the effectiveness of machine learning algorithms in educational analytics.</p>
 </section>
 <div class="columns">
 <div class="column" style="width:50%;">
-<section id="learning-outcomes" class="level4">
-<h4 class="anchored" data-anchor-id="learning-outcomes"><strong>Learning Outcomes</strong></h4>
+<section id="outcomes" class="level4">
+<h4 class="anchored" data-anchor-id="outcomes"><strong>Outcomes</strong></h4>
 <ul>
-<li><p>Developed experience designing research-based surveys using marketing constructs and academic literature</p></li>
-<li><p>Strengthened understanding of customer satisfaction, brand loyalty, and consumer behavior analysis</p></li>
-<li><p>Learned how to apply quantitative research methods to real-world business problems</p></li>
-<li><p>Gained experience conducting regression analysis and Chi-Square testing using SPSS</p></li>
-<li><p>Improved ability to interpret statistical findings and translate them into business recommendations</p></li>
-<li><p>Enhanced understanding of how data-driven insights support customer retention strategies and decision-making</p></li>
+<li><p>The Random Forest model demonstrated exceptionally strong predictive accuracy:</p></li>
+<li><p>R²: 0.986 (explained 98.6% of performance variation)</p></li>
+<li><p>RMSE: 2.40</p></li>
+<li><p>MAE: 1.89</p></li>
 </ul>
 </section>
 </div><div class="column" style="width:50%;">
 <section id="key-skills-gained" class="level4">
 <h4 class="anchored" data-anchor-id="key-skills-gained"><strong>Key Skills Gained</strong></h4>
+<p>The dataset was cleaned and transformed by standardizing variable names, converting categorical variables into numeric dummy variables, and selecting relevant predictor variables. Data preprocessing included normalization and removal of missing values using recipe workflows in R.</p>
+<p>The project used a <strong>Random Forest regression model</strong> to predict the dependent variable, <em>PerformanceIndex</em>. The dataset was split into training (80%) and testing (20%) sets to evaluate model performance. The workflow included:</p>
 <ul>
-<li><strong>Statistical Analysis:</strong> Conducted multiple regression analysis and Chi-Square testing to evaluate customer behavior relationships.</li>
-<li><strong>Consumer Behavior Analysis:</strong> Examined how satisfaction, presentation quality, and emotional experiences influence revisit intentions.</li>
-<li><strong>Data Preparation:</strong> Transformed and prepared survey data for SPSS analysis, including converting categorical variables into numerical scales.</li>
-<li><strong>Managerial Insight Development:</strong> Created actionable recommendations focused on customer satisfaction, loyalty programs, and service improvements.</li>
-<li><strong>Research Communication:</strong> Synthesized analytical findings into professional business research reports and presentations.</li>
-<li><strong>Marketing Analytics:</strong> Applied quantitative methods to evaluate customer retention and loyalty drivers.</li>
-<li><strong>Strategic Problem Solving:</strong> Used research findings to recommend strategies for improving customer experience and repeat purchase behavior.</li>
+<li>Data cleaning and feature engineering</li>
+<li>Exploratory data validation</li>
+<li>Model training using Random Forest regression</li>
+<li>Performance evaluation using RMSE, R², and MAE metrics</li>
 </ul>
 </section>
 </div>
 </div>
-<section id="methodology-visualization" class="level3">
-<h3 class="anchored" data-anchor-id="methodology-visualization">Methodology &amp; Visualization</h3>
-<p>The project used a structured survey research methodology supported by academic journal references and conceptual frameworks related to customer satisfaction, product quality, price consciousness, and brand loyalty. Survey responses from 200 generated participants were analyzed using SPSS through descriptive statistics, multiple regression analysis, ANOVA testing, cross-tabulation, and Chi-Square testing.</p>
-<p>Visual elements included conceptual framework diagrams, descriptive statistics tables, coefficient tables, ANOVA outputs, and crosstab visualizations to communicate statistical relationships and analytical findings effectively</p>
-<iframe src="surveyresearch.pdf" width="100%" height="600px">
+<p>The results showed that factors such as study hours, previous academic performance, sleep habits, extracurricular involvement, and practice papers were highly predictive of student success. The model effectively minimized prediction error and demonstrated the potential for machine learning applications in educational performance analysis and early intervention strategies.</p>
+<iframe src="IBM 6540 Final Project.html" width="100%" height="800px">
 </iframe>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
